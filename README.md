@@ -1,8 +1,9 @@
 # Flappy Bird Unity Recreation
 A basic recreation of the Flappy Bird game, developed as a beginner study tool of the Unity Game Engine and C# scripting. This project covered the building blocks of game development, from physics-based movement to dynamic object spawning.
 
-## Overview This project was built following the Game Maker's Toolkit (GMTK) introductory tutorial. It is an application of 2D game design principles, focusing on creating an infinite game loop that includes player input through legacy movement systems, continuous obstacle generation, and score tracking.
-
+## Overview
+This project was built following the Game Maker's Toolkit (GMTK) introductory tutorial. It is an application of 2D game design principles, focusing on creating an infinite game loop that includes player input through legacy movement systems, continuous obstacle generation, and score tracking.
+-----------------------------------------
 ### Key Features
 - Utilized Rigidbody2D and CircleCollider2D to implement gravity and responsive "flap" mechanics via C#.
 - Engineered a PipeSpawner script to instantiate pipe Prefabs at randomized heights using Random.Range.
