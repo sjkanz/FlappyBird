@@ -13,8 +13,11 @@ This project was built following the Game Maker's Toolkit (GMTK) introductory tu
 
 ### Tech Stack
 Game Engine: Unity 2D (2021.3+)
+
 Scripting Language: C#
+
 IDE: Microsoft Visual Studio
+
 Version Control: Git / GitHub
 
 ### Installation
@@ -33,6 +36,9 @@ Side note: Make sure the _Data folder remains in the same directory as the execu
 
 ### Credits
 This project was created through following the tutorial by Mark Brown (Game Maker's Toolkit).
+
 Original Tutorial: The Unity Tutorial For Complete Beginners
+
 Assets: Sprites provided/inspired by the GMTK starter kit.
+
 Developed by Sabine Kanz – https://www.linkedin.com/in/sabine-ka/
